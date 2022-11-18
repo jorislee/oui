@@ -1,0 +1,3 @@
+[submodule "nginx-19.07"]
+	path = nginx-19.07
+	url = https://github.com/jorislee/openwrt-nginx-19.07.git
